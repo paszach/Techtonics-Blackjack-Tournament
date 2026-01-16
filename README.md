@@ -4,7 +4,10 @@
 
 Pages you might be looking for:
 
+- [Tournament Guide](docs/tournament.md)
 - [Full Ruleset](docs/rules.md)
 - [Joining Info](docs/START.md)
 - [Leaderboard Standings (Opens leaderboardhq in new tab)](https://leaderboardhq.com/66z8uwuv)
+- [Signup Sheet](https://signup.com/go/JeYRaOS)
+- 
 
