@@ -9,5 +9,4 @@ Pages you might be looking for:
 - [Joining Info](docs/START.md)
 - [Leaderboard Standings (Opens leaderboardhq in new tab)](https://leaderboardhq.com/66z8uwuv)
 - [Signup Sheet](https://signup.com/go/JeYRaOS)
-- 
-
+  
