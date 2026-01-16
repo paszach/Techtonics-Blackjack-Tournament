@@ -5,4 +5,4 @@
 3. You get 500 Techdollars (Cogs)
 4. Sign up for a session and start playing!
 
-** Players are responsible for keeping their own Cogs safe and bringing them to sessions. Lost Cogs will not be replaced!! **
+**Players are responsible for keeping their own Cogs safe and bringing them to sessions. Lost Cogs will not be replaced!!**
