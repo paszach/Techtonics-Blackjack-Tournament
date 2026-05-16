@@ -15,5 +15,6 @@ Players cannot bet:
 - Glasses
 - Antihistamines & any type of medication (tablets, capsules, etc.)
 - Expired LCC discount cards
-- 
+- Political leaflets (intact or damaged)
+
 
