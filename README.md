@@ -7,6 +7,7 @@ Pages you might be looking for:
 - [Tournament Guide](docs/tournament.md)
 - [Full Ruleset](docs/rules.md)
 - [Joining Info](docs/START.md)
+- [Banned Bets](docs/bannedbets.md)
 - [Leaderboard Standings](https://leaderboardhq.com/66z8uwuv)
 
   
