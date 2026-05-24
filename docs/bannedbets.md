@@ -4,6 +4,8 @@ On special occasions dealer may allow a player to bet non-TTs currency if the re
 
 Dealer will not agree to for-like payout if the dealer cannot complete a for-like payout (e.g. a flatscreen TV)
 
+BETS CAN BE UNALLOWED AT THE TABLE AT THE DEALER'S DISCRETION.
+
 Players cannot bet:
 
 - Objects not brought on the players person to the session (i.e. finding something in the room that just happened to be there)
@@ -16,5 +18,9 @@ Players cannot bet:
 - Antihistamines & any type of medication (tablets, capsules, etc.)
 - Expired LCC discount cards
 - Political leaflets (intact or damaged)
+- Uncooked rice/pasta
+- Social events/outsourcing organising
+- Counterfeit currencies
+- 
 
 
