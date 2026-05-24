@@ -5,7 +5,7 @@
 ## Blackjack Table Rules
 
 - Table minimum is 10 τ$ 
-- Table maximum is 100 τ$ 
+- Table maximum is 100 τ$ - NO MORE ALL INS
 - 4-6 decks will be used
 
 ## Blackjack Player Choice Rules
