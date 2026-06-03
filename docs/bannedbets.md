@@ -21,6 +21,11 @@ Players cannot bet:
 - Uncooked rice/pasta
 - Social events/outsourcing organising
 - Counterfeit currencies
+- Portraits
+- Small animal toys
+- Easter chicks
+- Sexual favours (apart from between players)
+- GBP, USD, RMB, SGD
 - 
 
 
